@@ -2,4 +2,4 @@
 Trying to create a new repo from local system
 
 
-Created ny Syed Mohammad Rixwan
+Created ny Syed Mohammad Rizwan
